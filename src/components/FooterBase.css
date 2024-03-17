@@ -1,426 +1,427 @@
 .echio-white-bg-logo-1 {
-  height: 60px;
-  width: 152px;
-  position: relative;
-  object-fit: cover;
-}
-.echio-logo2 {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-}
-.more-details4 {
-  position: relative;
-  font-size: var(--body-2-size);
-  font-weight: 500;
-  font-family: var(--caption-regular);
-  background: linear-gradient(92.57deg, #00c5d4, #000);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-align: left;
-}
-.arrow-right-icon10 {
-  height: 33.8px;
-  width: 33.8px;
-  position: relative;
-  overflow: hidden;
-  flex-shrink: 0;
-  object-fit: contain;
-  display: none;
-}
-.echio-logo1,
-.secondary-button9 {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-.secondary-button9 {
-  cursor: pointer;
-  border: 1px solid var(--text-gradient-for-white-bg);
-  padding: var(--padding-base) var(--padding-4xl);
-  background-color: var(--button-gradient);
-  border-radius: var(--br-9xs);
-  justify-content: center;
-  gap: 0 4px;
-  white-space: nowrap;
-}
-.secondary-button9:hover {
-  background-color: var(--color-lightseagreen-200);
-  border: 1px solid var(--color-lightseagreen-100);
-  box-sizing: border-box;
-}
-.echio-logo1 {
-  align-self: stretch;
-  justify-content: space-between;
-  gap: var(--gap-xl);
-}
-.disclaimer {
-  margin: 0;
-  position: relative;
-  font-size: inherit;
-  line-height: 32px;
-  font-weight: 500;
-  font-family: inherit;
-}
-.echiofy-private-limited,
-.limited-is-u72900dl2022ptc3955,
-.p,
-.p1,
-.private-limited-company,
-.the-registered-office {
-  margin: 0;
-}
-.echiofy-private-limited-container {
-  align-self: stretch;
-  height: 288px;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-}
-.company-name,
-.companylogo {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.companylogo {
-  align-self: stretch;
-  font-size: var(--font-size-base);
-  color: var(--black-lite);
-}
-.company-name {
-  width: 336px;
-  gap: 24px 0;
-  max-width: 100%;
-}
-.company {
-  margin: 0;
-  font-size: inherit;
-  font-weight: 500;
-  font-family: inherit;
-}
-.about,
-.blogs,
-.company,
-.our-case-study,
-.our-journey,
-.partner-with-us,
-.team1 {
-  position: relative;
-  line-height: 32px;
-}
-.blogsandmore,
-.companyinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.companyinfo {
-  gap: 16px 0;
-  font-size: var(--body-2-size);
-  color: var(--black-lite);
-}
-.blogsandmore {
-  gap: 24px 0;
-}
-.features {
-  margin: 0;
-  font-size: inherit;
-  font-weight: 500;
-  font-family: inherit;
-}
-.agency3,
-.brands1,
-.features,
-.influencers2,
-.our-services1,
-.studio2 {
-  position: relative;
-  line-height: 32px;
-}
-.brands-parent,
-.emailcontact {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.brands-parent {
-  gap: 16px 0;
-  font-size: var(--body-2-size);
-  color: var(--black-lite);
-}
-.emailcontact {
-  gap: 24px 0;
-}
-.policy {
-  margin: 0;
-  font-size: inherit;
-  font-weight: 500;
-  font-family: inherit;
-}
-.policy,
-.privacy-policy1,
-.terms-conditions {
-  position: relative;
-  line-height: 32px;
-}
-.policy-section,
-.privacypolicy {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.privacypolicy {
-  gap: 16px 0;
-  font-size: var(--body-2-size);
-  color: var(--black-lite);
-}
-.policy-section {
-  gap: 24px 0;
-}
-.contact-us1 {
-  margin: 0;
-  font-size: inherit;
-  font-weight: 500;
-  font-family: inherit;
-}
-.bangalore-india,
-.call-us,
-.contact-us1,
-.email-us {
-  position: relative;
-  line-height: 32px;
-}
-.followsocialus {
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 16px 0;
-  font-size: var(--body-2-size);
-  color: var(--black-lite);
-}
-.contactusemail,
-.feature-list,
-.followsocialus {
-  display: flex;
-  align-items: flex-start;
-}
-.contactusemail {
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 24px 0;
-}
-.feature-list {
-  align-self: stretch;
-  flex-direction: row;
-  justify-content: space-between;
-  max-width: 100%;
-  gap: var(--gap-xl);
-}
-.copyright-2023-echiofy {
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  max-width: 100%;
-}
-.follow-us-on1 {
-  position: relative;
-  line-height: 20px;
-}
-.social-icons {
-  height: 48px;
-  width: 48px;
-  position: relative;
-  min-height: 48px;
-}
-.gradient-icon {
-  height: 100%;
-  width: 100%;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  border-radius: var(--br-81xl);
-  object-fit: cover;
-}
-.gradient-icon,
-.gradient-icon1,
-.path-icon {
-  position: absolute;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-}
-.path-icon {
-  height: 53.33%;
-  width: 53.33%;
-  top: 23.33%;
-  right: 23.33%;
-  bottom: 23.33%;
-  left: 23.33%;
-  z-index: 1;
-}
-.gradient-icon1 {
-  height: 68.33%;
-  width: 68.33%;
-  top: 15.83%;
-  right: 15.83%;
-  bottom: 15.83%;
-  left: 15.83%;
-  object-fit: cover;
-  display: none;
-}
-.social-icons1 {
-  height: 48px;
-  width: 48px;
-  position: relative;
-  overflow: hidden;
-  flex-shrink: 0;
-}
-.social-icons2,
-.social-icons3,
-.social-icons4 {
-  height: 48px;
-  width: 48px;
-  position: relative;
-  min-height: 48px;
-}
-.social-links {
-  align-self: stretch;
-  overflow: hidden;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  gap: var(--gap-xl);
-}
-.echiofy,
-.follow-links {
-  display: flex;
-  max-width: 100%;
-}
-.follow-links {
-  width: 336px;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: 12px 0;
-  color: var(--neutral-black);
-}
-.echiofy {
-  align-self: stretch;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  gap: var(--gap-xl);
-  font-size: var(--font-size-base);
-  color: var(--black-lite);
-}
-.footer,
-.footer-base {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  max-width: 100%;
-}
-.footer {
-  flex: 1;
-  flex-direction: column;
-  gap: 60px 0;
-}
-.footer-base {
-  align-self: stretch;
-  flex-direction: row;
-  padding: 0 var(--padding-60xl);
-  box-sizing: border-box;
-  text-align: left;
-  font-size: var(--font-size-13xl);
-  color: var(--neutral-black);
-  font-family: var(--font-syne);
-}
-@media screen and (max-width: 1225px) {
-  .feature-list {
-    flex-wrap: wrap;
+    height: 60px;
+    width: 152px;
+    position: relative;
+    object-fit: cover;
   }
-}
-@media screen and (max-width: 1050px) {
-  .echiofy {
-    flex-wrap: wrap;
+  .echio-logo2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
   }
-}
-@media screen and (max-width: 750px) {
-  .company,
-  .contact-us1,
-  .disclaimer,
-  .features,
-  .policy {
-    font-size: var(--font-size-7xl);
-    line-height: 26px;
+  .more-details4 {
+    position: relative;
+    font-size: var(--body-2-size);
+    font-weight: 500;
+    font-family: var(--caption-regular);
+    background: linear-gradient(92.57deg, #00c5d4, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
   }
-  .footer {
-    gap: 30px 0;
+  .arrow-right-icon10 {
+    height: 33.8px;
+    width: 33.8px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+    display: none;
   }
-  .footer-base {
-    padding-left: var(--padding-20xl);
-    padding-right: var(--padding-20xl);
+  .echio-logo1,
+  .secondary-button9 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .secondary-button9 {
+    cursor: pointer;
+    border: 1px solid var(--text-gradient-for-white-bg);
+    padding: var(--padding-base) var(--padding-4xl);
+    background-color: var(--button-gradient);
+    border-radius: var(--br-9xs);
+    justify-content: center;
+    gap: 0 4px;
+    white-space: nowrap;
+  }
+  .secondary-button9:hover {
+    background-color: var(--color-lightseagreen-200);
+    border: 1px solid var(--color-lightseagreen-100);
     box-sizing: border-box;
   }
-}
-@media screen and (max-width: 450px) {
   .echio-logo1 {
-    flex-wrap: wrap;
+    align-self: stretch;
+    justify-content: space-between;
+    gap: var(--gap-xl);
   }
-  .company,
   .disclaimer {
-    font-size: var(--font-size-lgi);
-    line-height: 19px;
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .echiofy-private-limited,
+  .limited-is-u72900dl2022ptc3955,
+  .p,
+  .p1,
+  .private-limited-company,
+  .the-registered-office {
+    margin: 0;
+  }
+  .echiofy-private-limited-container {
+    align-self: stretch;
+    height: 288px;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+  }
+  .company-name,
+  .companylogo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .companylogo {
+    align-self: stretch;
+    font-size: var(--font-size-base);
+    color: var(--black-lite);
+  }
+  .company-name {
+    width: 336px;
+    gap: 24px 0;
+    max-width: 100%;
+  }
+  .company {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
   }
   .about,
   .blogs,
+  .company,
   .our-case-study,
   .our-journey,
   .partner-with-us,
   .team1 {
-    font-size: var(--font-size-base);
-    line-height: 26px;
+    position: relative;
+    line-height: 32px;
+  }
+  .blogsandmore,
+  .companyinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .companyinfo {
+    gap: 16px 0;
+    font-size: var(--body-2-size);
+    color: var(--black-lite);
+  }
+  .blogsandmore {
+    gap: 24px 0;
   }
   .features {
-    font-size: var(--font-size-lgi);
-    line-height: 19px;
+    margin: 0;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
   }
   .agency3,
   .brands1,
+  .features,
   .influencers2,
   .our-services1,
   .studio2 {
-    font-size: var(--font-size-base);
-    line-height: 26px;
+    position: relative;
+    line-height: 32px;
+  }
+  .brands-parent,
+  .emailcontact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .brands-parent {
+    gap: 16px 0;
+    font-size: var(--body-2-size);
+    color: var(--black-lite);
+  }
+  .emailcontact {
+    gap: 24px 0;
   }
   .policy {
-    font-size: var(--font-size-lgi);
-    line-height: 19px;
+    margin: 0;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
   }
+  .policy,
   .privacy-policy1,
   .terms-conditions {
-    font-size: var(--font-size-base);
-    line-height: 26px;
+    position: relative;
+    line-height: 32px;
+  }
+  .policy-section,
+  .privacypolicy {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .privacypolicy {
+    gap: 16px 0;
+    font-size: var(--body-2-size);
+    color: var(--black-lite);
+  }
+  .policy-section {
+    gap: 24px 0;
   }
   .contact-us1 {
-    font-size: var(--font-size-lgi);
-    line-height: 19px;
+    margin: 0;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
   }
   .bangalore-india,
   .call-us,
+  .contact-us1,
   .email-us {
-    font-size: var(--font-size-base);
-    line-height: 26px;
+    position: relative;
+    line-height: 32px;
+  }
+  .followsocialus {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 16px 0;
+    font-size: var(--body-2-size);
+    color: var(--black-lite);
+  }
+  .contactusemail,
+  .feature-list,
+  .followsocialus {
+    display: flex;
+    align-items: flex-start;
+  }
+  .contactusemail {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 24px 0;
+  }
+  .feature-list {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: var(--gap-xl);
+  }
+  .copyright-2023-echiofy {
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .follow-us-on1 {
+    position: relative;
+    line-height: 20px;
+  }
+  .social-icons {
+    height: 48px;
+    width: 48px;
+    position: relative;
+    min-height: 48px;
+  }
+  .gradient-icon {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-81xl);
+    object-fit: cover;
+  }
+  .gradient-icon,
+  .gradient-icon1,
+  .path-icon {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .path-icon {
+    height: 53.33%;
+    width: 53.33%;
+    top: 23.33%;
+    right: 23.33%;
+    bottom: 23.33%;
+    left: 23.33%;
+    z-index: 1;
+  }
+  .gradient-icon1 {
+    height: 68.33%;
+    width: 68.33%;
+    top: 15.83%;
+    right: 15.83%;
+    bottom: 15.83%;
+    left: 15.83%;
+    object-fit: cover;
+    display: none;
+  }
+  .social-icons1 {
+    height: 48px;
+    width: 48px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .social-icons2,
+  .social-icons3,
+  .social-icons4 {
+    height: 48px;
+    width: 48px;
+    position: relative;
+    min-height: 48px;
   }
   .social-links {
-    flex-wrap: wrap;
-    justify-content: center;
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--gap-xl);
   }
-}
+  .echiofy,
+  .follow-links {
+    display: flex;
+    max-width: 100%;
+  }
+  .follow-links {
+    width: 336px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px 0;
+    color: var(--neutral-black);
+  }
+  .echiofy {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    font-size: var(--font-size-base);
+    color: var(--black-lite);
+  }
+  .footer,
+  .footer-base {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .footer {
+    flex: 1;
+    flex-direction: column;
+    gap: 60px 0;
+  }
+  .footer-base {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-60xl);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--neutral-black);
+    font-family: var(--font-syne);
+  }
+  @media screen and (max-width: 1225px) {
+    .feature-list {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .echiofy {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .company,
+    .contact-us1,
+    .disclaimer,
+    .features,
+    .policy {
+      font-size: var(--font-size-7xl);
+      line-height: 26px;
+    }
+    .footer {
+      gap: 30px 0;
+    }
+    .footer-base {
+      padding-left: var(--padding-20xl);
+      padding-right: var(--padding-20xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .echio-logo1 {
+      flex-wrap: wrap;
+    }
+    .company,
+    .disclaimer {
+      font-size: var(--font-size-lgi);
+      line-height: 19px;
+    }
+    .about,
+    .blogs,
+    .our-case-study,
+    .our-journey,
+    .partner-with-us,
+    .team1 {
+      font-size: var(--font-size-base);
+      line-height: 26px;
+    }
+    .features {
+      font-size: var(--font-size-lgi);
+      line-height: 19px;
+    }
+    .agency3,
+    .brands1,
+    .influencers2,
+    .our-services1,
+    .studio2 {
+      font-size: var(--font-size-base);
+      line-height: 26px;
+    }
+    .policy {
+      font-size: var(--font-size-lgi);
+      line-height: 19px;
+    }
+    .privacy-policy1,
+    .terms-conditions {
+      font-size: var(--font-size-base);
+      line-height: 26px;
+    }
+    .contact-us1 {
+      font-size: var(--font-size-lgi);
+      line-height: 19px;
+    }
+    .bangalore-india,
+    .call-us,
+    .email-us {
+      font-size: var(--font-size-base);
+      line-height: 26px;
+    }
+    .social-links {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  

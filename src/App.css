@@ -1,0 +1,13 @@
+.heading1 {
+
+  background: -webkit-linear-gradient(#fff, #3f3e3e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heading2 {
+
+  background: -webkit-linear-gradient(#19C2D9,#fff );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
